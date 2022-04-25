@@ -360,6 +360,12 @@ const themes = {
     icon_color: "ebbcba",
     text_color: "e0def4",
     bg_color: "191724",
+  },
+  "microwave": {
+    title_color: "c4c4c4",
+    icon_color: "141414",
+    text_color: "525252",
+    bg_color: "ffffff"
   }
 };
 
